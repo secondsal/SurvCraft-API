@@ -1,3 +1,4 @@
+Hello World
 # SurvivalCraft API
 ## A Very good fork of SurvivalCraft Game.
 
@@ -10,4 +11,3 @@
 |Custom tools           | Come and try to get Germanium powered pickaxe! |
 
 ### Latest update: 2.0
-Hello World
