@@ -10,3 +10,4 @@
 |Custom tools           | Come and try to get Germanium powered pickaxe! |
 
 ### Latest update: 2.0
+Hello World
