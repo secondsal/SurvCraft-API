@@ -1,7 +1,7 @@
 # SurvCraft API
 ## A Very good fork of SurvivalCraft Game.
 
-# Latest update: 2.1.0.2
+# We are progressing to 3.0
 
 ### Biggest additions:
 
