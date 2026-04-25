@@ -1,0 +1,23 @@
+name: Discord Release Notify
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send notification to Discord
+        run: |
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d '{
+                 "embeds": [{
+                   "title": "🚀 Новый релиз: ${{ github.event.release.name }}",
+                   "description": "Версия: ${{ github.event.release.tag_name }}\n\n${{ github.event.release.body }}",
+                   "url": "${{ github.event.release.html_url }}",
+                   "color": 5814783
+                 }]
+               }' \
+               ${{ secrets.DISCORD_WEBHOOK }}
