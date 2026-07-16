@@ -12,6 +12,6 @@
 
   ### Socials:
   ##### TG: ...
-  ##### DISCORD: ...
+  ##### DISCORD: https://discord.gg/e6MMS5CmvC
 
 </details>
