@@ -11,7 +11,7 @@
   <summary>Socials: Click to expand</summary>
 
   ### Socials:
-  ##### TG: ...
+  ##### TG: t.me/sc_608studios
   ##### DISCORD: https://discord.gg/e6MMS5CmvC
 
 </details>
